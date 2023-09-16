@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:noNamespaceSchemaLocation="schema.xsd">
+    <class>
+        <student id="1">
+            <firstname>Ivan</firstname>
+            <lastname>Petrov</lastname>
+            <age>20</age>
+        </student>
+        <student id="2">
+            <firstname>Igor</firstname>
+            <lastname>Tregulov</lastname>
+            <age>22</age>
+        </student>
+        <student id="3">
+            <firstname>Snezhana</firstname>
+            <lastname>Vysokova</lastname>
+            <age>19</age>
+        </student>
+    </class>
+</p>
